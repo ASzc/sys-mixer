@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SparkFun-Electromechanical)(type Legacy)(uri /home/alex/Documents/pcb/SparkFun-Kicad-Libraries/SparkFun-Electromechanical.lib)(options "")(descr ""))
+  (lib (name extra-footprints)(type Legacy)(uri /home/alex/Documents/pcb/sys-mixer/extra-footprints.lib)(options "")(descr ""))
+)

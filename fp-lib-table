@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SparkFun-Electromechanical)(type KiCad)(uri /home/alex/Documents/pcb/SparkFun-Kicad-Libraries/SparkFun-Electromechanical.pretty)(options "")(descr ""))
+  (lib (name extra-footprints)(type KiCad)(uri ${KIPRJMOD}/extra-footprints.pretty)(options "")(descr ""))
+)
